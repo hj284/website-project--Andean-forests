@@ -1,33 +1,10 @@
-# student-site
+# Andean forests
+The purpose of this site is to showcase ambiances of South America's Andean ecoregion, where cloud forests meet the Amazon jungle. Immerse yourself in our planet's most biodiverse region through authentic nature ambiances captured on location in high definition audio. Navigate between the three pages to experience the sound and feel of a dawn chorus in the cloud forest of the high Andes, followed by an orchid-drenched riverbank that winds its way down from the mountains to the humid jungles below, finally leading to a nightime soundscape of the wild Amazon rainforest.
 
-An example student website, hosted by [GitHub Pages](https://pages.github.com/).
+Ambiances consist of both visual and audio media, so please make sure your volume is turned on!
 
-View live in production at https://prof-rossetti.github.io/student-site.
+The "About" section describes the purpose of the site and links to other content produced by the author.
 
-![a demonstration of website functionality showing navigation between a few linked pages](https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/e3ff575a3afab0f7b4a621a5246d05e51495759d/projects/personal-website/demo.gif)
-
-## Installation
-
-Fork this repo to make a copy under your own control, then clone your forked copy (for example, downloading it onto your Desktop). Locate the directory you downloaded, and open it with your file finder.
-
-## Usage
-
-To view the website, you can either use the file-open approach, or run a local webserver.
-
-### File Open Approach
-
-For the file open approach: right click on the "index.html" file and click "Open in browser", where you can view the file in the browser at its specified local filepath.
-
-### Local Webserver Approach
-
-For the local webserver approach: ensure you have access to Python (e.g. through the "base" Anaconda environment), navigate to the repository's root directory, and then run a local Python web server on a port like 8000:
-
-```sh
-# navigate to the repository's root directory, if necessary:
-cd ~/Desktop/student-site
-
-# run a local web server with Python 3.x (like in the Anaconda base environment):
-python -m http.server 8000
-```
+This website was created by Henry Johnson as a project for the class Internet Business Technologies (OPIM 668) by Professor Michael Rossetti at Georgetown's McDonough School of Business. 
 
 ## [License](/LICENSE)
